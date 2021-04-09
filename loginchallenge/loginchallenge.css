@@ -1,0 +1,25 @@
+.box {
+    color: blue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: white;
+    margin: 20px;
+    border: 2px solid black;
+    width: 350px;
+    height: 700px;
+    position: fixed;
+    /*left: 550px;*/
+}
+
+.login {
+    position: relative;
+    text-align: center;
+}
+
+.userInfo{
+    padding: 10px;
+}
+
+.button{
+    position: fixed;
+    margin: 10px 0px 0px 280px;
+}
